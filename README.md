@@ -1,5 +1,4 @@
 # simple_v2ray_setup
-
 &rlm;
 #  نمای کلی
 
@@ -7,24 +6,25 @@
 
 ## فهرست
 
-* راهنمای نصب قسمت سرور
-* راهنمای نصب نرم افزار اندروید
-* راهنمای نصب نرم افزار آیفون
-* راهنمای نصب برای ویندوز
-* راهنمای نصب نرم افزار برای لینوکس
-* راهنمای نصب نرم افزار برای لینوکس
+* [راهنمای نصب قسمت سرور](./Guides/readme.md)
+* [راهنمای نصب نرم افزار اندروید](./Guides/readme.md)
+* [راهنمای نصب نرم افزار آیفون](./Guides/readme.md)
+* [راهنمای نصب برای ویندوز](./Guides/readme.md)
+* [راهنمای نصب نرم افزار برای لینوکس](./Guides/readme.md)
+* [راهنمای نصب نرم افزار برای لینوکس](./Guides/readme.md)
 
 
 ## رفع اشکالات
 
-در صورتی که در فرایند نصب به مشکلی برخوردید میتوانید در بالای همین صفحه یک issue باز کنید.
+در صورتی که در فرایند نصب به مشکلی برخوردید میتوانید در بالای همین صفحه یک [Issue](https://github.com/freeNet4Iran/simple_v2ray_setup/issues) باز کنید.
 
-##
-ارتباط با ما
 
-[Telegram](https://t.me/freeNet4Iran)
+## ارتباط با ما
 
-[GitHub](https://github.com/freeNet4Iran/simple_v2ray_setup)
+[تلگرام](https://t.me/freeNet4Iran)
+
+[گیت هاب](https://github.com/freeNet4Iran/simple_v2ray_setup)
 
 &rlm;
+
 
