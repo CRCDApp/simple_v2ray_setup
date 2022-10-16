@@ -1,4 +1,5 @@
 # simple_v2ray_setup
+
 &rlm;
 #  نمای کلی
 
@@ -6,12 +7,12 @@
 
 ## فهرست
 
-* [راهنمای نصب قسمت سرور](./Guides/readme.md)
+* [راهنمای نصب قسمت سرور](./Guides/contents/ServerSide/ServerSide.md)
 * [راهنمای نصب نرم افزار اندروید](./Guides/readme.md)
 * [راهنمای نصب نرم افزار آیفون](./Guides/readme.md)
 * [راهنمای نصب برای ویندوز](./Guides/readme.md)
 * [راهنمای نصب نرم افزار برای لینوکس](./Guides/readme.md)
-* [راهنمای نصب نرم افزار برای لینوکس](./Guides/readme.md)
+* [راهنمای نصب نرم افزار برای مک](./Guides/readme.md)
 
 
 ## رفع اشکالات
@@ -25,6 +26,16 @@
 
 [گیت هاب](https://github.com/freeNet4Iran/simple_v2ray_setup)
 
+[توییتر](https://twitter.com/4freenetiran)
+
+[پشتیبانی تلگرام](https://t.me/FreeNet4IranSupport)
+
+
 &rlm;
 
+- [ ] Add client guides
+- [ ] add windows guide
+- [ ] add linux guide
+- [ ] add Mac guide 
+- [ ] add advance server guide
 
