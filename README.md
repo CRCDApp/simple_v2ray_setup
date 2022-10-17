@@ -8,7 +8,7 @@
 ## فهرست
 
 * [راهنمای نصب قسمت سرور](./contents/ServerSide/ServerSide.md)
-* [راهنمای نصب نرم افزار اندروید](./Guides/readme.md)
+* [راهنمای نصب نرم افزار اندروید](./contents/ClientAndroidIOS/ClientAndroidIOS.md)
 * [راهنمای نصب نرم افزار آیفون](./Guides/readme.md)
 * [راهنمای نصب برای ویندوز](./Guides/readme.md)
 * [راهنمای نصب نرم افزار برای لینوکس](./Guides/readme.md)
