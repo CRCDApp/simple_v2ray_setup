@@ -7,7 +7,7 @@
 
 ## فهرست
 
-* [راهنمای نصب قسمت سرور](./Guides/contents/ServerSide/ServerSide.md)
+* [راهنمای نصب قسمت سرور](./contents/ServerSide/ServerSide.md)
 * [راهنمای نصب نرم افزار اندروید](./Guides/readme.md)
 * [راهنمای نصب نرم افزار آیفون](./Guides/readme.md)
 * [راهنمای نصب برای ویندوز](./Guides/readme.md)
